@@ -10,7 +10,11 @@ INI TUTOR UNTUK VPS
 - ketik chmod +x ./start.sh
 - lalu ketik ./start.sh
 - lalu tunggu hingga proses selesai
-
+- jika sudah masuk ke direktori dengan cd proxy-scraper-checker-main/out/proxies
+- lalu copy file all.txt dengan cara berikut 
+- cp all.txt /root/getgrass-main/
+- lalu masuk ke /getgrass-main lalu hapus file proxy list.txt 
+- ganti nama file all.txt yg tadi sudah di copy menjadi proxy list.txt (ini bertujuan untuk meng update proxy lama menjadi baru)
 
 ➡️ 2️⃣ Running Bot :
 
